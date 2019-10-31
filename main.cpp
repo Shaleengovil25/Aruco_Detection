@@ -34,4 +34,5 @@ int main()
         if(key==27)
         break;     
     }   
+    //aranaya ratra was here
 }
